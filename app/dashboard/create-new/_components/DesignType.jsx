@@ -3,7 +3,7 @@ import React, { useState } from "react";
 
 function DesignType({ selectedDesignType }) {
   const designs = [
-    { name: "Americana", image: "/Americana.jpg" },
+    { name: "Americana", image: "/americana.jpg" },
     { name: "Farmhouse", image: "/farmhouse.jpg" },
     { name: "Bohemian", image: "/bohemian.jpg" },
     { name: "Traditional", image: "/traditional.jpg" },
